@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iva</h1>
 <h3 align="center">it student and developer</h3>
 
-- 🔭 I’m currently working on [school projects](https://github.com/ivapapac/UzDiz)
+- 🔭 I’m currently working on [school projects](https://github.com/ivapapac/MovieCorner)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivapapac?tab=repositories](https://github.com/ivapapac?tab=repositories)
 
