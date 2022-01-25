@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [school projects](https://github.com/ivapapac/MovieCorner)
 
-  - 🌱 I’m currently learning **Flutter** as a part of my master's thesis.
+- 🌱 I’m currently learning **Flutter** as a part of my master's thesis.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivapapac?tab=repositories](https://github.com/ivapapac?tab=repositories)
 
