@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [school projects](https://github.com/ivapapac/MovieCorner)
 
-- 🌱 I’m currently learning **MERN**
+  - 🌱 I’m currently learning **Flutter** as a part of my master's thesis.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivapapac?tab=repositories](https://github.com/ivapapac?tab=repositories)
 
 - 📝 I have a published article [http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf)
 
-- 💬 Ask me about **ui/ux design and mobile development**
+- 💬 Ask me about **ui/ux design and mobile/web development**
 
 - 📫 How to reach me **ivapapac22@gmail.com**
 
