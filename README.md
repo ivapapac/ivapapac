@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivapapac?tab=repositories](https://github.com/ivapapac?tab=repositories)
 
-- 📝 I have a published article [http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf)
+- 📝 I have published an article [http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf](http://archive.ceciis.foi.hr/app/public/conferences/2021/Proceedings/ELA/ELA2.pdf)
 
 - 💬 Ask me about **ui/ux design and mobile/web development**
 
