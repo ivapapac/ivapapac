@@ -32,6 +32,6 @@
 
 ##### STATS
 <p>
-  <img align="left" height="140" width="400" src="https://github-readme-stats.vercel.app/api?username=ivapapac&count_private=true&show_icons=true&theme=default&hide_border=true&line_height=20&show_owner=true&bg_color=ffffff00"/>
-  <img align="right" height="140" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivapapac&layout=compact&langs_count=3&theme=default&hide_border=true&bg_color=ffffff00"
+  <img align="left" height="140" width="400" src="https://github-readme-stats.vercel.app/api?username=ivapapac&count_private=true&show_icons=true&theme=default&hide_border=true&line_height=20&show_owner=true"/>
+  <img align="right" height="140" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivapapac&layout=compact&langs_count=3&theme=default&hide_border=true"
 </p>
