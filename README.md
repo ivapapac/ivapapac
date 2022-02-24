@@ -10,7 +10,7 @@
 - 🏦 I'm currently working at Croatian National Bank
 - 💻 I use daily: `pl/sql` `.js` `.html` `.css`
 - 🎨 Using my spare time for: ui/ux design, photography & illustrations
-- 📫 Reach me: &nbsp; <a target="_blank" href="https://www.linkedin.com/in/iva-papac-639536197/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+- 📫 Reach me: &nbsp; <a href="https://www.linkedin.com/in/iva-papac-639536197/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 
 ##### LANGUAGES & TOOLS
   <p>
